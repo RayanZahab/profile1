@@ -1,4 +1,3 @@
 # profile1
 
-Create AlMutasim branch file with ReadME
-
+This is a repo of everyone's profile
