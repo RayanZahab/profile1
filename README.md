@@ -1,3 +1,3 @@
 # profile1
 
-In this branch, files will display a user profile which has information about Rahma Al-Wadhahi
+This is a repo of everyone's profile
