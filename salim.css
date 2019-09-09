@@ -1,0 +1,23 @@
+.center {
+  text-align: center;
+}
+  .left{
+  img-align: left;
+  }
+  body {
+  background-color: lightblue;
+}
+
+h1 {
+  background-color: blue;
+  color: black;
+  margin-left: 20px;
+  align: middle;
+}
+div.a {
+	position: relative; 
+	border: 3px solid red;
+	top: 200px;
+	left: -150px;
+
+}
