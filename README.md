@@ -1,3 +1,3 @@
 # profile1
-software developer with two year experience 
-working at phazero
+
+This is a repo of everyone's profile
