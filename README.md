@@ -1,2 +1,3 @@
 # profile1
-software developer craete project from sckratch
+software developer with two year experience 
+working at phazero
